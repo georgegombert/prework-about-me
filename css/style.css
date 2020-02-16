@@ -12,9 +12,10 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/rambo.jpg');
+  background-image: url('../img/george.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100px;
 }
 
 .masthead-intro {
